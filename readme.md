@@ -25,4 +25,4 @@ Be advised that some elements may display information for other areas of a page 
 
 # Contributing
 
-If you want to help expand these filters, all domains and specific elements for that domain **must** be labeled with comments, and be as briefly descriptive as possible. If an element consists of multiple elements, only one comment is needed per element of a given type. Any contributions [**must be tested**](readme.md#Disclaimer) to ensure quality. Please follow existing formatting.
+If you want to help expand these filters, all domains and specific elements for that domain **must** be labeled with comments, and be as briefly descriptive as possible. If a filter consists of multiple elements, only one comment is needed per element of a given type. Any contributions [**must be tested**](readme.md#Disclaimer) to ensure quality. Please follow existing formatting.
