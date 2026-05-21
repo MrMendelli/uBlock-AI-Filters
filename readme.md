@@ -10,8 +10,19 @@ I created this repository to share custom [uBlock Origin](<https://addons.mozill
 
 # Installation
 
-From the uBlock settings, navigate to the `My filters` tab and insert the contents of [`filters.txt`](filters.txt) as needed.
+From the uBlock settings, navigate to the `My filters` tab and insert the contents of [`filters.txt`](filters.txt) as needed, ensure that custom filters are also enabled.
+![](images/My%20filters.png)
+
+# Creating New Filters
+
+To create a new custom filter, select the eye dropper and click the desired element. Note that it is most ideal to also get all surrounding padding selected. It is not mandatory other than for contributions, but can leave empty space. You can `Preview` any current selections to see what it will look like. When creating a custom filter, use the sliders to adjust the scope of nesting for the element. This can vary dramatically site-to-site so there is no guaranteed consistency, though I prefer to adjust the left slider first, then the right. When finished with the selection, simply click `Create`.
+
+## Disclaimer
+
+Be advised that some elements may display information for other areas of a page or other separate pages. It is recommended to check the preview in addition to refreshing a page to ensure the filter applies consistently. Conversely, updates to a site may change element names and break filters, which may then need to be updated.
+
+![](images/Create%20Filter.png)
 
 # Contributing
 
-If you want to help expand these filters, all domains and specific elements for that domain **must** be labeled with comments, and be as briefly descriptive as possible. If an element consists of multiple elements, only one comment is needed per element of a given type. Please follow existing formatting.
+If you want to help expand these filters, all domains and specific elements for that domain **must** be labeled with comments, and be as briefly descriptive as possible. If an element consists of multiple elements, only one comment is needed per element of a given type. Any contributions [**must be tested**](readme.md#Disclaimer) to ensure quality. Please follow existing formatting.
