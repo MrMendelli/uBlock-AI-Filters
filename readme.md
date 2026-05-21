@@ -13,6 +13,10 @@ I created this repository to share custom [uBlock Origin](<https://addons.mozill
 From the uBlock settings, navigate to the `My filters` tab and insert the contents of [`filters.txt`](filters.txt) as needed, ensure that custom filters are also enabled.
 ![](images/My%20filters.png)
 
+## _"Is my browser supported?"_
+
+Other browsers and extensions are untested. I have, and only ever will update this using [Waterfox](<https://www.waterfox.com/>) with uBlock Origin under the assumption that other browsers are supported as long as they also support uBlock Origin.
+
 # Creating New Filters
 
 To create a new custom filter, select the eye dropper and click the desired element. Note that it is most ideal to also get all surrounding padding selected. It is not mandatory other than for contributions, but can leave empty space. You can `Preview` any current selections to see what it will look like. When creating a custom filter, use the sliders to adjust the scope of nesting for the element. This can vary dramatically site-to-site so there is no guaranteed consistency, though I prefer to adjust the left slider first, then the right. When finished with the selection, simply click `Create`.
