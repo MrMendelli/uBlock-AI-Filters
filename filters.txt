@@ -79,6 +79,14 @@ www.google.com##.vKW4md.SNco2.GJyMZe.Y5Ip8c.VDgVie.vSyRff
 learn.microsoft.com##.border-color-ask-learn.margin-right-xxs.display-inline-flex-desktop.flex-shrink-0.display-none.button-sm.button
 ! Summarize this article for me header
 learn.microsoft.com###ms--ai-summary-cta
+! Microsoft Copilot documentation menu button
+learn.microsoft.com###ms--panel-1 > .site-header-panel-content > .site-header-panel-links > li:nth-of-type(4)
+! Microsoft Copilot training menu button
+learn.microsoft.com###ms--panel-2 > .site-header-panel-content > .site-header-panel-links > li:nth-of-type(4)
+! Topics menu (Agents)
+learn.microsoft.com##.site-header-panel-cards > li:nth-of-type(1)
+! Topics menu (Artificial Intellegence)
+learn.microsoft.com##.site-header-panel-cards > li:nth-of-type(2)
 
 ! M -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
