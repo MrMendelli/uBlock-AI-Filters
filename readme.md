@@ -26,7 +26,7 @@ To create a new custom filter, select the eye dropper and click the desired elem
 
 ## Disclaimer
 
-Be advised that some elements may display information for other areas of a page or other separate pages. It is recommended to check the preview in addition to refreshing a page to ensure the filter applies consistently. Conversely, updates to a site may change element names and break filters, which may then need to be updated.
+Be advised that some elements may display information for other areas of a page or other separate pages. It is recommended to check the preview in addition to refreshing a page to ensure a given filter is applied consistently. Conversely, updates to a site may change element names and break filters, which may then need to be updated.
 
 ![](images/Create%20Filter.png)
 
