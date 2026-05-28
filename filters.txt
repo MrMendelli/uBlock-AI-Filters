@@ -6,6 +6,16 @@
 
 ! D -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+! https://www.deviantart.com
+! Dream Up AI-Art toolbar button
+www.deviantart.com##.jUBZrG.reset-link
+! DreamUp sidebar button
+www.deviantart.com##li:nth-of-type(5) > .ZkT52O > .xODI7E.nu6Rw3
+! Video creator sidebar button
+www.deviantart.com##li:nth-of-type(6) > .ZkT52O > .xODI7E.nu6Rw3
+! AI content sidebar group
+www.deviantart.com##._912f8u
+
 ! https://duckduckgo.com
 ! AI search box
 duckduckgo.com##.ai-searchbox_modeSelectorWrapper__yKK7S
