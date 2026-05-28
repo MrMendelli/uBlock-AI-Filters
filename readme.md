@@ -1,6 +1,9 @@
-![](images/HET!.jpg)
-
-_"Нет!" by Viktor Ivanovich Govorkov, 1954._
+<p align="center">
+  <img src="images/HET!.jpg" style="max-width:70%">
+</p>
+<p align="center">
+  <i>"Нет!" by Viktor Ivanovich Govorkov, 1954.</i>
+</p>
 
 # About
 
