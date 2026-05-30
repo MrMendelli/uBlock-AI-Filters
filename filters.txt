@@ -15,6 +15,10 @@ www.deviantart.com##li:nth-of-type(5) > .ZkT52O > .xODI7E.nu6Rw3
 www.deviantart.com##li:nth-of-type(6) > .ZkT52O > .xODI7E.nu6Rw3
 ! AI content sidebar group
 www.deviantart.com##._912f8u
+! DreamUp menu button
+deviantart.com##a[role="menuitem"][label="DreamUp"]
+! Video Creator menu button
+deviantart.com##a[role="menuitem"][label="Video Creator"]
 
 ! https://duckduckgo.com
 ! AI search box
