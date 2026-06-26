@@ -75,6 +75,7 @@ github.com##.ChatInput-module__mode__NL1lh
 www.google.com##.Y5MKCd.plR5qb
 ! AI Overview
 www.google.com##.dRpWwb.M8OgIe.bzXtMb
+www.google.com##.YzCcne
 ! AI Mode tab 
 www.google.com##.olrp5b
 ! AI mode prompt
