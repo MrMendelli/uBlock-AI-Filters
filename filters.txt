@@ -22,6 +22,10 @@ deviantart.com##a[role="menuitem"][label="Video Creator"]
 ! DreamUp post banner ad
 www.deviantart.com##.A3cqZ_.v4LjTE
 
+! Jul 11, 2026 https://drive.google.com
+! Gemini toolbar button
+drive.google.com##.Hb-ja-hc.a-OkO9ve-Qs0SX-yp5uJf.a-OkO9ve-gAsIFc
+
 ! https://duckduckgo.com
 ! AI search box
 duckduckgo.com##.ai-searchbox_modeSelectorWrapper__yKK7S
@@ -73,6 +77,7 @@ github.com##.ChatInput-module__mode__NL1lh
 ! https://www.google.com
 ! AI mode search
 www.google.com##.Y5MKCd.plR5qb
+www.google.com##.dRYYxd.fM33ce
 ! AI Overview
 www.google.com##.dRpWwb.M8OgIe.bzXtMb
 www.google.com##.YzCcne
