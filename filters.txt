@@ -1,5 +1,26 @@
 ! A -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+! https://acrobat.adobe.com
+! AI read toolbar button
+acrobat.adobe.com##div.styles__alwaysShow___1MlGS.styles__actionItem___3xNAC > .spectrum-ActionButton--quiet.spectrum-ActionButton
+! Ask AI Assistant toolbar button
+acrobat.adobe.com###genai-assistant-button
+! Document AI summary button
+acrobat.adobe.com###skinny-rail-button-verb-outline
+! AI Tools sidebar category
+acrobat.adobe.com##.is-open.react-spectrum-Accordion-item.spectrum-Accordion-item
+! Generative summary header
+acrobat.adobe.com##.GenAIAutoSummaryCard__positionRelative___gJ0ea.GenAIAutoSummaryCard__footerOverride___ykClz
+acrobat.adobe.com##.small.AICardTemplate__Container___uARVg
+! Ask AI Assistant embedded search
+acrobat.adobe.com##.bKAXas.sc-dYwGCk
+! AI Assistant comment group
+acrobat.adobe.com##.GenAIPromptOneClick__genAIPromptOneClickContainer___rVeo9
+! Open AI Assistant context menu item
+acrobat.adobe.com##li.ContextMenu__contextMenuItem___65IVh.spectrum-Menu-item:nth-of-type(3)
+! Open generative summary context menu item
+acrobat.adobe.com##li.ContextMenu__contextMenuItem___65IVh.spectrum-Menu-item:nth-of-type(4)
+
 ! B -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ! C -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,7 +43,7 @@ deviantart.com##a[role="menuitem"][label="Video Creator"]
 ! DreamUp post banner ad
 www.deviantart.com##.A3cqZ_.v4LjTE
 
-! Jul 11, 2026 https://drive.google.com
+! https://drive.google.com
 ! Gemini toolbar button
 drive.google.com##.Hb-ja-hc.a-OkO9ve-Qs0SX-yp5uJf.a-OkO9ve-gAsIFc
 
@@ -172,6 +193,8 @@ www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer
 www.youtube.com##.ytVideoDescriptionYouchatSectionViewModelHost
 ! Video description AI summary
 www.youtube.com##.ytd-expandable-metadata-renderer.style-scope
+! Ask YouTube search button
+www.youtube.com##.ytSearchboxComponentInputBoxAlignFocused.ytSearchboxComponentInputBoxUnified.ytSearchboxComponentInputBoxDark.ytSearchboxComponentInputBox > div
 
 ! Z -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
